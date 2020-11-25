@@ -3,19 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.lijinchao.com/blockchain/2/</loc>
-  </url>
-  
-  <url>
     <loc>http://blog.lijinchao.com/blockchain/</loc>
   </url>
   
   <url>
-    <loc>http://blog.lijinchao.com/blockchain/1/</loc>
+    <loc>http://blog.lijinchao.com/blockchain/start/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/running/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/arc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/questions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/nodes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/data_sync/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/miner/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/db/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/balance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/transaction/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/blockchain/merkle/</loc>
   </url>
   
   <url>
     <loc>http://blog.lijinchao.com/</loc>
+    <lastmod>2020-11-25T01:36:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.lijinchao.com/notes/</loc>
     <lastmod>2020-11-25T01:36:15+08:00</lastmod>
   </url>
   

@@ -1,23 +1,12 @@
 baseURL = "http://blog.lijinchao.com/"
 languageCode = "zh"
-title = "lijinchao"
+title = "日拱一卒"
 theme = "hugo-theme-learn"
 
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir= true
 
 
-[params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
-  showVisitedLinks = true
-  disableBreadcrumb = false
-  disableNextPrev = false
-  disableLandingPageButton = true
-  disableMermaid = false
-  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
-  titleSeparator = "::"
 
 
 [Languages]
@@ -26,7 +15,7 @@ defaultContentLanguageInSubdir= true
 [[Languages.zh.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub 仓库"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/lijinchao2007"
 weight = 10
 
 [[Languages.zh.menu.shortcuts]]

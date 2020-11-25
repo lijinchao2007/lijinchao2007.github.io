@@ -6,4 +6,4 @@ hugo server -D
 
 ### gen
 
-hugo
+hugo -d docs
